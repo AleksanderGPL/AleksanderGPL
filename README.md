@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AleksanderGPL
-- 👀 I’m interested in making websites & making discord bots
+- 👀 I’m interested in making websites, discord bots and other stuff you can do with Python.
 - 🌱 I’m currently learning Python
