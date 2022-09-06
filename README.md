@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AleksanderGPL
+- 👀 I’m interested in making websites & making discord bots
+- 🌱 I’m currently learning Python
