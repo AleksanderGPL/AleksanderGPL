@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AleksanderGPL
-- 👀 I’m interested in making websites, discord bots and other stuff you can do with Python.
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in C# apps, web apps and AI.
+- 🌱 I’m currently learning C#, Python and PHP
