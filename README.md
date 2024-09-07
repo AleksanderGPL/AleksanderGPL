@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AleksanderGPL
-- 👀 I’m interested in C# apps, web apps and AI.
-- 🌱 I’m currently learning C#, Python and PHP
+- 👀 I’m interested in making Web apps, APIs, C# apps (CLI & GUI) and AI.
+- 🌱 I’m currently learning Python, JavaScript, C#, C++ and PHP
